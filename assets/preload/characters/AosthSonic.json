@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "AOSTH IDLE"
+		},
+		{
+			"offsets": [
+				-165,
+				438
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "AOSTH LEFT"
+		},
+		{
+			"offsets": [
+				-14,
+				349
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "AOSTH RIGHT"
+		},
+		{
+			"offsets": [
+				11,
+				593
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "AOSTH UP"
+		},
+		{
+			"offsets": [
+				-10,
+				230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "AOSTH DOWN"
+		},
+		{
+			"offsets": [
+				65,
+				413
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "AOSTH-alt UP"
+		},
+		{
+			"offsets": [
+				-199,
+				327
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "AOSTH-alt RIGHT"
+		},
+		{
+			"offsets": [
+				151,
+				493
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "AOSTH-alt LEFT"
+		},
+		{
+			"offsets": [
+				40,
+				270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "AOSTH-alt DOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SonicSezOG",
+	"position": [
+		190,
+		330
+	],
+	"healthicon": "SSez",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		102,
+		203
+	],
+	"camera_position": [
+		-140,
+		-350
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
