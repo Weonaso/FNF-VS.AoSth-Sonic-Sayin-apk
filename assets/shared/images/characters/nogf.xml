@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="nogf.png" width="30" height="37">
+  <SubTexture name="idle" x="0" y="0"  width="30" height="37" frameX="-0" frameY="-0" frameWidth="30" frameHeight="37"/>
+</TextureAtlas>

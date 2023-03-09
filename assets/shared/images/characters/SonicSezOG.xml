@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="SonicSezOG.png" width="3951" height="3974">
+  <SubTexture name="up-00002" x="0" y="0"  width="777" height="1035" frameX="-0" frameY="-0" frameWidth="777" frameHeight="1035"/>
+  <SubTexture name="up-00003" x="0" y="1035"  width="760" height="1033" frameX="-0" frameY="-0" frameWidth="760" frameHeight="1033"/>
+  <SubTexture name="up-00001" x="0" y="2068"  width="729" height="1028" frameX="-0" frameY="-0" frameWidth="729" frameHeight="1028"/>
+  <SubTexture name="left-00001" x="0" y="3096"  width="655" height="878" frameX="-0" frameY="-0" frameWidth="655" frameHeight="878"/>
+  <SubTexture name="left-00002" x="655" y="3096"  width="649" height="861" frameX="-0" frameY="-0" frameWidth="649" frameHeight="861"/>
+  <SubTexture name="left-00003" x="1304" y="3096"  width="639" height="843" frameX="-0" frameY="-0" frameWidth="639" frameHeight="843"/>
+  <SubTexture name="idle-00002" x="1943" y="3096"  width="596" height="781" frameX="-0" frameY="-0" frameWidth="596" frameHeight="781"/>
+  <SubTexture name="idle-00001" x="2539" y="3096"  width="577" height="780" frameX="-0" frameY="-0" frameWidth="577" frameHeight="780"/>
+  <SubTexture name="down-00003" x="3116" y="3096"  width="835" height="673" frameX="-0" frameY="-0" frameWidth="835" frameHeight="673"/>
+  <SubTexture name="idle-00003" x="729" y="2068"  width="603" height="778" frameX="-0" frameY="-0" frameWidth="603" frameHeight="778"/>
+  <SubTexture name="idle-00005" x="1332" y="2068"  width="561" height="772" frameX="-0" frameY="-0" frameWidth="561" frameHeight="772"/>
+  <SubTexture name="right-00003" x="1893" y="2068"  width="579" height="766" frameX="-0" frameY="-0" frameWidth="579" frameHeight="766"/>
+  <SubTexture name="right-00002" x="2472" y="2068"  width="576" height="764" frameX="-0" frameY="-0" frameWidth="576" frameHeight="764"/>
+  <SubTexture name="down-00002" x="3048" y="2068"  width="830" height="696" frameX="-0" frameY="-0" frameWidth="830" frameHeight="696"/>
+  <SubTexture name="idle-00004" x="760" y="1035"  width="548" height="764" frameX="-0" frameY="-0" frameWidth="548" frameHeight="764"/>
+  <SubTexture name="right-00001" x="1308" y="1035"  width="579" height="754" frameX="-0" frameY="-0" frameWidth="579" frameHeight="754"/>
+  <SubTexture name="down-00001" x="1887" y="1035"  width="811" height="725" frameX="-0" frameY="-0" frameWidth="811" frameHeight="725"/>
+</TextureAtlas>
