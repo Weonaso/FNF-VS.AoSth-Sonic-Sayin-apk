@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="credits.png">
+<SubTexture name="credits not selected0000" x="0" y="0" width="821" height="287" frameX="-38" frameY="-11" frameWidth="889" frameHeight="298" />
+<SubTexture name="credits not selected0001" x="821" y="0" width="817" height="286" frameX="-42" frameY="-11" frameWidth="889" frameHeight="298" />
+<SubTexture name="credits not selected0002" x="0" y="574" width="827" height="283" frameX="-33" frameY="-9" frameWidth="889" frameHeight="298" />
+<SubTexture name="credits selected0000" x="0" y="287" width="821" height="287" frameX="-38" frameY="-11" frameWidth="889" frameHeight="298" />
+<SubTexture name="credits selected0001" x="821" y="286" width="817" height="286" frameX="-42" frameY="-11" frameWidth="889" frameHeight="298" />
+<SubTexture name="credits selected0002" x="0" y="857" width="827" height="283" frameX="-33" frameY="-9" frameWidth="889" frameHeight="298" />
+</TextureAtlas>

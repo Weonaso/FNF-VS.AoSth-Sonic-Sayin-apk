@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="options.png">
+<SubTexture name="options not selected0000" x="0" y="424" width="836" height="205" frameX="-31" frameY="-5" frameWidth="915" frameHeight="225" />
+<SubTexture name="options not selected0001" x="836" y="0" width="851" height="205" frameX="-27" frameY="-7" frameWidth="915" frameHeight="225" />
+<SubTexture name="options not selected0002" x="0" y="0" width="836" height="212" frameX="-36" frameY="-2" frameWidth="915" frameHeight="225" />
+<SubTexture name="options selected0000" x="836" y="205" width="836" height="205" frameX="-31" frameY="-5" frameWidth="915" frameHeight="225" />
+<SubTexture name="options selected0001" x="836" y="410" width="851" height="205" frameX="-27" frameY="-7" frameWidth="915" frameHeight="225" />
+<SubTexture name="options selected0002" x="0" y="212" width="836" height="212" frameX="-36" frameY="-2" frameWidth="915" frameHeight="225" />
+</TextureAtlas>
