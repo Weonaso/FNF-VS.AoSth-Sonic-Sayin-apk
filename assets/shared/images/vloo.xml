@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="vloo.png">
+<SubTexture name="vloo bop0000" x="881" y="0" width="299" height="598" frameX="-103" frameY="-100" frameWidth="500" frameHeight="720" />
+<SubTexture name="vloo bop0001" x="581" y="0" width="300" height="606" frameX="-105" frameY="-92" frameWidth="500" frameHeight="720" />
+<SubTexture name="vloo bop0002" x="285" y="0" width="296" height="612" frameX="-105" frameY="-86" frameWidth="500" frameHeight="720" />
+<SubTexture name="vloo bop0003" x="0" y="0" width="285" height="618" frameX="-109" frameY="-80" frameWidth="500" frameHeight="720" />
+</TextureAtlas>

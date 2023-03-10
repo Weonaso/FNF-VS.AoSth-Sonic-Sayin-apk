@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="vreen.png">
+<SubTexture name="vreen bop0000" x="587" y="0" width="205" height="459" frameX="-92" frameY="-242" frameWidth="500" frameHeight="720" />
+<SubTexture name="vreen bop0001" x="390" y="0" width="197" height="464" frameX="-96" frameY="-238" frameWidth="500" frameHeight="720" />
+<SubTexture name="vreen bop0002" x="193" y="0" width="197" height="467" frameX="-95" frameY="-234" frameWidth="500" frameHeight="720" />
+<SubTexture name="vreen bop0003" x="0" y="0" width="193" height="472" frameX="-98" frameY="-229" frameWidth="500" frameHeight="720" />
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="giolet.png">
+<SubTexture name="giolet bop0000" x="618" y="0" width="212" height="390" frameX="-88" frameY="-308" frameWidth="500" frameHeight="720" />
+<SubTexture name="giolet bop0001" x="410" y="0" width="208" height="394" frameX="-90" frameY="-304" frameWidth="500" frameHeight="720" />
+<SubTexture name="giolet bop0002" x="203" y="0" width="207" height="395" frameX="-91" frameY="-303" frameWidth="500" frameHeight="720" />
+<SubTexture name="giolet bop0003" x="0" y="0" width="203" height="398" frameX="-93" frameY="-300" frameWidth="500" frameHeight="720" />
+</TextureAtlas>
